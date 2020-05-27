@@ -157,8 +157,8 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: ''
-public_path: ''
+upload_dir: cazzo
+public_path: cazzone
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
